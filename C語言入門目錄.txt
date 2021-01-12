@@ -197,6 +197,30 @@ i,j
 【C 語言入門】12.1 - 更多關於函式使用的細節
 【C 語言入門】12.2 - 使用 C 標準函式庫
 【C 語言入門】12.3 - 對兩個變數求最大值的練習 (使用函式)
+【C 語言入門】12.4 - 關於變數名稱可視範圍 (scope)
+【C 語言入門】12.5 - 對三個變數求最大值的練習 (使用函式)
+【C 語言入門】12.6 - 用文字繪製三角形的練習 (使用函式)
+【C 語言入門】12.7 - 亂數生成 (使用函式)
+Initialize random number generator
+The pseudo-random number generator is initialized using the argument passed as seed.
+
+Get current time
+Get the current calendar time as a value of type time_t.
+
+【C 語言入門】12.8 - 擲骰子的練習 (使用函式)
+您好： 非常感謝 貴公司給予本人面試機會，我會準時前往 貴公司面試。
+謝謝您！
+【C 語言入門】12.9 - 全域 (global) 變數的特殊性
+【C 語言入門】12.10 - 全域變數與靜態 (static) 區域變數
+【C 語言入門】12.11 - 整數的溢位
+【C 語言入門】12.12 - 自行生成偽亂數
+【C 語言入門】12.13 - 實作偽亂數生成
+【C 語言入門】12.14 - 自定義亂數函式
+
+【C 語言入門】13 - 函式遞迴
+
+
+
 
 
 
